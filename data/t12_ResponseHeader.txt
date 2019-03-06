@@ -1,0 +1,13 @@
+HTTP/1.1 200 
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://advantageonlineshopping.com
+Vary: Origin,Accept-Encoding
+Access-Control-Expose-Headers: HP_CM_DATA
+HP_CM_DATA: %7B%22sr_id%22%3A%22-1499565191771358930%22%2C%22ins_id%22%3A%22AAVnvuZlOPVlxGIuAAAAAAAAA%2FEAAAAAAAGLPA%3D%3D%22%2C%22app_key%22%3A%221dreun2gmt%22%2C%22sr_url%22%3A%22%2F*%2F*%2F*%2F*%2F*%22%7D
+Expires: 0
+Cache-Control: no-store
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+Date: Wed, 09 May 2018 22:59:00 GMT
+

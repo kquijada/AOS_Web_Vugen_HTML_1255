@@ -1,0 +1,27 @@
+//////////////////////////////////////////////////////////////////////
+// DO NOT MODIFY THIS PAC - CHANGES MUST BE MADE THRU THE ADMIN SITE
+//////////////////////////////////////////////////////////////////////
+// AUTOCACHE HP (c) 2014 ver.2.01 Web Publish
+// Debug URL: http://autocache.hp.com/?debug=1
+// This PAC was web generated: 2016-06-01 03:43:55 PM
+//////////////////////////////////////////////////////////////////////
+
+var pacname = "remotedirect-hpe.pac";
+var pacdate = "2016-06-01 10:17:17 PM";
+
+function FindProxyForURL(url, host)
+
+{
+
+HPQNETPROXY = "PROXY web-proxy.houston.hpecorp.net:8080; PROXY proxy-ccy.houston.hpecorp.net:8080";
+
+  // Accomodation for Bank of America TSG support, Nick Holle
+   if (shExpMatch(host, "selma.bankofamerica.com")
+        || shExpMatch(host, "bart.bankofamerica.com")
+        || shExpMatch(host, "maximo.bankofamerica.com")
+        || shExpMatch(host, "bart-uat.bankofamerica.com")
+        || shExpMatch(host, "connections.bankofamerica.com"))
+        return "PROXY 171.156.128.110:8080";
+
+    return "DIRECT";
+}

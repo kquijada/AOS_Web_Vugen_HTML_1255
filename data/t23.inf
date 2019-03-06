@@ -1,0 +1,11 @@
+[t23]
+FileName1=t23.txt
+URL1=https://apppulse-web-data.saas.hpe.com/hpclientmon/browser_data/de024099ca5f4cd09d1a738dc048405b/
+Total=1
+RequestHeaderFile=t23_RequestHeader.txt
+RequestBodyFile=t23_RequestBody.txt
+ResponseHeaderFile=t23_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_23.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+GET /ws/07fa0394ac53066f0221636c6e1329d607619a787f2983e67677cc448825c358 HTTP/1.1
+Host: lp-push-server-905.lastpass.com
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: chrome-extension://hdokiejnpimakedhajhdlcegeplioahd
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: lang=en_US
+Sec-WebSocket-Key: XqBPliM6ID3fvNicFn+c/A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+

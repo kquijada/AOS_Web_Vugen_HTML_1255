@@ -1,0 +1,13 @@
+HTTP/1.1 200 
+Access-Control-Request-Method: POST, GET, OPTIONS, DELETE
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapaction
+Expires: 0
+Cache-control: no-store
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: HP_CM_DATA
+HP_CM_DATA: %7B%22sr_id%22%3A%227674378832244798679%22%2C%22ins_id%22%3A%22AAVnvuZ73vQ0x1svAAAAAAAAAHUAAAAAAABmiw%3D%3D%22%2C%22app_key%22%3A%221dreun2gmt%22%2C%22sr_url%22%3A%22%2Faccountservice%2FGetAccountConfigurationRequest%22%7D
+Transfer-Encoding: chunked
+Date: Wed, 09 May 2018 22:59:00 GMT
+

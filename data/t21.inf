@@ -1,0 +1,11 @@
+[t21]
+FileName1=t21_07fa0394ac53066f0221636c6e1329d607619a787f2983e67677cc448825c358.html
+URL1=https://lp-push-server-905.lastpass.com/ws/07fa0394ac53066f0221636c6e1329d607619a787f2983e67677cc448825c358
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_21.xml
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

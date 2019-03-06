@@ -1,0 +1,10 @@
+GET /lmiapi/topsites/urls HTTP/1.1
+Host: lastpass.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+X-CSRF-TOKEN: MTUyNTkwNjc2OS4xNzk1LdEObKre54Cxh9p3sCODk9fFF2enCXsLfxD1N9V/sfzt
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: sessonly=0; lang=en_US; PHPSESSID=rnUB1r3kACxSRslJzc1Pvkhajo9
+

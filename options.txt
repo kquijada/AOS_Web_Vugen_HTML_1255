@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Temp\AOS_Web_Vugen_HTML_1255\AOS_Web_
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\temp\aos_web_vugen_html_1255\aos_web_\\logfile.log
+c:\temp\aos_web_vugen_html_1255\aos_web_\\combined_AOS_Web_.c
+c:\temp\aos_web_vugen_html_1255\aos_web_\\pre_cci.c

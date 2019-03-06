@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'self'; img-src 'self' https://lastpass.com data: https://analytics.twitter.com/i/adsct https://www.facebook.com/tr; object-src 'self' http://*.googlevideo.com; connect-src 'self' https://lastpass.com wss://*.lastpass.com https://5399020466.log.optimizely.com https://pollserver.lastpass.com https://loglogin.lastpass.com https://provisioning-api-prod.service.lastpass.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' https://lastpass.com; plugin-types application/x-invalid-type; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://lastpass.com https://www.youtube.com https://*.ytimg.com https://*.optimizely.com; font-src data: 'self' 'unsafe-inline' 'unsafe-eval' https://lastpass.com; frame-src 'self' https://ssl.gstatic.com https://www.google.com https://www.youtube.com https://1min-ui-prod.service.lastpass.com https://cdn.lmiutil.com/
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+P3P: CP="NON DSP COR CUR OUR LEG PHY COM"
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: LastPass
+Strict-Transport-Security: max-age=86400000
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-FrontEnd-Address: nginx-web-fe01-01.lastpass.com
+Vary: Accept-Encoding
+Date: Wed, 09 May 2018 22:59:30 GMT
+Content-Length: 0
+Connection: keep-alive
+

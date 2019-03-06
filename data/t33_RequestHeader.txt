@@ -1,0 +1,12 @@
+POST /hpclientmon/browser_data/de024099ca5f4cd09d1a738dc048405b/ HTTP/1.1
+Host: apppulse-web-data.saas.hpe.com
+Connection: keep-alive
+Content-Length: 1160
+Origin: http://advantageonlineshopping.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Referer: http://advantageonlineshopping.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

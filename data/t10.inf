@@ -1,0 +1,13 @@
+[t10]
+FileName1=t10.xml
+URL1=http://52.38.138.5:8081/accountservice/GetAccountConfigurationRequest
+Total=2
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=t10_RequestBody.txt
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10_collect.gif
+URL2=https://www.google-analytics.com/r/collect?v=1&_v=j67&a=647700099&t=pageview&_s=1&dl=http%3A%2F%2Fadvantageonlineshopping.com%2F&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1920x1080&vp=1729x868&je=0&_u=IEBAAEAB~&jid=1189311688&gjid=932617142&cid=1727700429.1525906740&tid=UA-81334227-1&_gid=1168917812.1525906740&_r=1&z=1346850914
+[ProtocolInfo]
+ProtocolId=QTWeb

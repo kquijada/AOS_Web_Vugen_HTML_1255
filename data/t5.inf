@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5_ALL.html
+URL1=http://52.38.138.5/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+FileName2=t5_favicon.ico
+URL2=http://advantageonlineshopping.com/css/images/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb
