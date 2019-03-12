@@ -11,7 +11,7 @@
 //--------------------------------------------------------------------
 // Global Variables
 
-// trabajando en el codigo esto es para una demostracion
+// trabajando en el codigo esto es para una demostracion, terminando la demostracion
 
 #endif // _GLOBALS_H
 
